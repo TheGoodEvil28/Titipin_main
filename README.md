@@ -1,6 +1,28 @@
 # Titipin Chat App
 
-Welcome to the Titipin Chat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
+## Team Description MONSTERROOKIE
+- Hustler "Gerda Kalista"
+- Hipster "Olivia Putri Arwidiyanti"
+- Hacker "Andika Dwi Setya Nugraha"
+
+## Product Description
+
+"TitipIn" is an innovative solution to address the challenges faced by young people with time constraints, limited access to transportation, or simply a reluctance to go shopping. The application also provides an opportunity for students living independently to supplement their income. With "TitipIn," users can act as a personal shopper or a recipient of items, forming a mutually beneficial community that supports inclusive economic growth.
+
+
+## Product Screenshot
+
+
+
+
+
+
+
+
+
+
+
+This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
 ## Activity Files
 
