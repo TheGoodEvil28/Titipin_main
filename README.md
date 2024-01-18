@@ -45,3 +45,10 @@ To use this app:
 1. Clone or download the repository.
 2. Set up your Firebase project and update the `google-services.json` file.
 3. Build and run the app on your Android device or emulator.`
+4. We can use one of 3 test number phone Phone Number to login with OTP.
+Phone             OTP
++62 822-2222-2222	222222	
++62 811-1111-1111	111111	
++62 833-3333-3333	333333
+5. Lasty we can search the username of the user and start chatting. 
+
