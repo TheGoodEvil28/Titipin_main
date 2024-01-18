@@ -12,15 +12,7 @@
 
 ## Product Screenshot
 
-
-
-
-
-
-
-
-
-
+![Screenshot (590)](https://github.com/TheGoodEvil28/Titipin_main/assets/78303093/e898e64d-e949-4ad4-82f7-2b966e1de133)
 
 This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
